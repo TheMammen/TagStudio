@@ -164,7 +164,7 @@ def qt_driver(qtbot, library, library_dir: Path):
         driver.copy_buffer = {"fields": [], "tags": []}
         driver.main_window.menu_bar.copy_fields_action = Mock()
         driver.main_window.menu_bar.paste_fields_action = Mock()
-
+        driver.main_window.menu_bar.test_macro_1_action = Mock()
         driver.lib = library
         # TODO - downsize this method and use it
         # driver.start()
