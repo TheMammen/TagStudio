@@ -221,7 +221,7 @@ Discrete library objects representing [attributes](<https://en.wikipedia.org/wik
 ### :material-file-cog: [Macros](../utilities/macro.md)
 
 -   [x] Standard, Human Readable Format (TOML) :material-chevron-triple-up:{ .priority-high title="High Priority" } **[v9.5.4]**
--   [ ] Versioning System :material-chevron-triple-up:{ .priority-high title="High Priority" } **[v9.5.4]**
+-   [x] Versioning System :material-chevron-triple-up:{ .priority-high title="High Priority" } **[v9.5.4]**
 -   [ ] Triggers **[v9.5.4]**
     -   [ ] On File Added :material-chevron-triple-up:{ .priority-high title="High Priority" }
     -   [ ] On Library Refresh :material-chevron-triple-up:{ .priority-high title="High Priority" }
