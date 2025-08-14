@@ -46,6 +46,7 @@ nav:
       - library/tag_overrides.md
   - Utilities:
       - utilities/macro.md
+      - utilities/relinking.md
   - Updates:
       - updates/changelog.md
       - updates/roadmap.md
